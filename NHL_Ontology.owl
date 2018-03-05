@@ -1,0 +1,1393 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/mikedoane/ontologies/2018/2/untitled-ontology-7"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/mikedoane/ontologies/2018/2/untitled-ontology-7">
+    <Prefix name="" IRI="http://www.semanticweb.org/mikedoane/ontologies/2018/2/untitled-ontology-7"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The National Hockey League (NHL) ontology that describes NHL teams based on their coach and arena.</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000051"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000132"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000023"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000035"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000120"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000047"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000059"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000063"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000011"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000129"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000117"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000105"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000008"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000050"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000062"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000034"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000046"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000131"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000058"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000103"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000022"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000128"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000116"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000104"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000019"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000061"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000045"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000057"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000130"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000114"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000069"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000102"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000021"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000033"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000127"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000115"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000018"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000060"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000056"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000125"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000113"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000032"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000068"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000044"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000126"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000124"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000112"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000043"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000067"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000055"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000028"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000109"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000066"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000014"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000026"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000042"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000123"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000054"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000111"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000027"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000039"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000108"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000110"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000013"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000065"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000025"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000037"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000041"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000053"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000122"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000107"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000119"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000040"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000121"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000036"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000064"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000048"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000052"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000118"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000106"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000049"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000001"/>
+        <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000002"/>
+        <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000002"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000004"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000005"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000006"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000007"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000008"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000009"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000010"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000011"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000002"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000013"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000014"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000015"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000016"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000017"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000018"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000019"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000021"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000022"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000023"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000024"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000025"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000026"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000027"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000028"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000030"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000031"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000032"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000033"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000034"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000035"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000036"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000037"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000039"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000040"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000041"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000042"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000043"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000044"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000045"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000046"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000047"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000048"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000049"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000050"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000051"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000052"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000053"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000054"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000055"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000056"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000057"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000058"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000059"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000060"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000061"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000062"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000063"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000064"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000065"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000066"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000067"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000068"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000069"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000102"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000103"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000104"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000105"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000106"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000107"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000108"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000109"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000110"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000111"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000112"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000113"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000114"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000115"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000116"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000117"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000118"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000119"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000120"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000121"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000122"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000123"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000124"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000125"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000126"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000127"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000128"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000129"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000130"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000131"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000132"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000003"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000012"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000004"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000005"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000006"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000007"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000008"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000009"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000010"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000011"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000013"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000014"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000015"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000016"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000017"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000018"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000019"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000020"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000029"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000021"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000022"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000023"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000024"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000025"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000026"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000027"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000028"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000030"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000031"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000032"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000033"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000034"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000035"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000036"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000037"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000039"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000040"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000041"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000042"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000043"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000044"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000045"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000046"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000047"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000048"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000049"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000050"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000051"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000052"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000053"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000054"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000055"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000056"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000057"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000058"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000059"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000060"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000061"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000062"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000063"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000064"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000065"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000066"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000067"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000068"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000069"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000102"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000103"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000104"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000105"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000106"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000107"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000108"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000109"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000110"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000111"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000112"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000113"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000114"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000115"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000116"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000117"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000118"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000119"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000120"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000121"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000122"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000123"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000124"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000125"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000126"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000127"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000128"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000129"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000130"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000131"/>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000132"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+    </SubObjectPropertyOf>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nfl.com/ontology/nfl.owl/NFL0000001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Teams</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">EasternConference</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WesternConference</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PacificDivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">VegasGoldenKnights</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">SanJoseSharks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">LosAngelesKings</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AnaheimDucks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CalgaryFlames</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">EdmontonOilers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000010</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">VancouverCanucks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000011</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ArizonaCoyotes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000012</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CentralDivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000013</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NashvillePreditors</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000014</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WinnipegJets</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000015</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">MinnesotaWild</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000016</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DallasStars</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000017</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">StLouisBlues</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000018</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ColoradoAvalache</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000019</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ChicagoBlackhawks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000020</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">MetropolitanDivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000021</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WashingtonCapitals</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000022</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PhilidelphiaFlyers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000023</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PittsburghPenguins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000024</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NewJerseyDevils</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000025</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ColumbusBlueJackets</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000026</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CarolinaHurricanes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000027</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NewYorkIslanders</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000028</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NewYorkRangers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000029</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AtlanticDivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000030</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TampaBayLightning</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000031</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BostonBruins</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000032</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TorontoMapleLeafs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000033</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">FloridaPanthers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000034</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DetroitRedWings</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000035</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">MontrealCanadiens</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000036</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">OttawaSenators</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000037</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BuffaloSabres</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000038</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Coaches</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000039</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RandyCarlyle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000040</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RickTocchet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000041</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BruceCassidy</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000042</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PhilHousley</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000043</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">GlenGulutzan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000044</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BillPeters</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000045</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">JoelQuenneville</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000046</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">JaredBednar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000047</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">JohnTortorella</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000048</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">KenHitchcock</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000049</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">JeffBlashill</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000050</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ToddMcLellan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000051</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BobBoughner</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000052</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">JohnStevens</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000053</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BruceBoudreau</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000054</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ClaudeJulien</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000055</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PeterLaviolette</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000056</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">JohnHynes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000057</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DougWeight</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000058</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AlainVigneault</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000059</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">GuyBoucher</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000060</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DaveHakstol</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000061</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">MikeSullivan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000062</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PeterDeBoer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000063</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">MikeYeo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000064</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">JonCooper</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000065</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">MikeBabcock</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000066</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TravisGreen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000067</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">GerardGallant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000068</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BarryTrotz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000069</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PaulMaurice</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000070</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Arenas</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000102</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AirCanadaCentre</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000103</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AmalieArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000104</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AmericanAirlinesCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000105</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BB&amp;TCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000106</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BarclaysCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000107</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BellCentre</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000108</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BellMTSPlace</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000109</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BridgestoneArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000110</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CanadianTireCentre</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000111</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CapitalOneArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000112</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">GilaRiverArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000113</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">HondaCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000114</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">KeyBankCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000115</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">LittleCaesarsArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000116</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">MadisonSquareGarden</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000117</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NationwideArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000118</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PepsiCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000119</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PNCArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000120</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PPGPaintsArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000121</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PrudentialCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000122</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RogersArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000123</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">RogersPlace</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000124</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ScotiabankSaddledome</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000125</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">SAPCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000126</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ScottradeCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000127</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">StaplesCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000128</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TDGarden</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000129</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">T-MobileArena</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000130</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">UnitedCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000131</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WellsFargoCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000132</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">XcelEnergyCenter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000142</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hasDivision</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000143</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hasTeam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000144</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hasCoach</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.nhl.com/ontology/nhl.owl/NHL0000145</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hasArena</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
