@@ -345,124 +345,558 @@
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000004"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000067"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000004"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000129"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000005"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000005"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000062"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000005"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000125"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000006"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000006"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000052"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000006"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000127"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000007"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000007"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000039"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000007"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000113"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000008"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000008"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000043"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000008"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000124"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000009"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000009"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000050"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000009"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000123"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000010"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000010"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000066"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000010"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000122"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000011"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000011"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000040"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000011"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000112"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000013"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000013"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000055"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000013"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000109"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000014"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000014"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000069"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000014"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000108"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000015"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000015"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000053"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000015"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000132"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000016"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000016"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000048"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000016"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000104"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000017"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000017"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000063"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000017"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000126"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000018"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000018"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000046"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000018"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000118"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000019"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000019"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000045"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000019"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000130"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000021"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000021"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000068"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000021"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000111"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000022"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000022"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000060"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000022"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000131"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000023"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000023"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000061"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000023"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000120"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000024"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000024"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000056"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000024"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000121"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000025"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000025"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000047"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000025"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000117"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000026"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000026"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000044"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000026"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000119"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000027"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000027"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000057"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000027"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000106"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000028"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000028"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000058"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000028"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000116"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000030"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000030"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000064"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000030"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000103"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000031"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000031"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000041"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000031"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000128"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000032"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000032"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000065"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000032"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000102"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000033"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000033"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000051"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000033"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000105"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000034"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000034"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000049"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000034"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000115"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000035"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000035"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000054"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000035"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000107"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000036"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000036"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000059"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000036"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000110"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000037"/>
         <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000037"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000042"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000037"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000114"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000039"/>
@@ -717,24 +1151,269 @@
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000146"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000147"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000147"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000148"/>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000146"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000148"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000152"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000148"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000149"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000030"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000031"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000032"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000033"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000034"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000035"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000036"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000150"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000037"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000149"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000021"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000022"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000023"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000024"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000025"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000026"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000027"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000151"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000028"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000152"/>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000149"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000152"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000013"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000152"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000014"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000152"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000015"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000152"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000016"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000152"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000017"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000152"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000018"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000152"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000019"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000149"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000004"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000005"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000006"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000007"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000008"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000009"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000010"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000153"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000011"/>
+        </ObjectSomeValuesFrom>
     </SubClassOf>
     <DisjointClasses>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000004"/>
@@ -760,35 +1439,6 @@
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000026"/>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000027"/>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000028"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000030"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000031"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000032"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000033"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000034"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000035"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000036"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000037"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000013"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000014"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000015"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000016"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000017"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000018"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000019"/>
-    </DisjointClasses>
-    <DisjointClasses>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000021"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000022"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000023"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000024"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000025"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000026"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000027"/>
-        <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000028"/>
-    </DisjointClasses>
-    <DisjointClasses>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000030"/>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000031"/>
         <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000032"/>
@@ -886,6 +1536,62 @@
         <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
         <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
     </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000146"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000149"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000142"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000149"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000143"/>
+            <Class IRI="http://www.nfl.com/ontology/nfl.owl/NFL0000001"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000144"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000038"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000145"/>
+            <Class IRI="http://www.nhl.com/ontology/nhl.owl/NHL0000070"/>
+        </ObjectSomeValuesFrom>
+    </ObjectPropertyRange>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:isDefinedBy"/>
         <IRI>http://www.nfl.com/ontology/nfl.owl/NFL0000001</IRI>
